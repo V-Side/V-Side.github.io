@@ -12,11 +12,11 @@ Psalm 91:4 "He will cover you with his feathers, and under his wings you will fi
 
 ### Contact me
 
-[email@domain.com](mailto:gordon.bowers@slps.org)
+[gordon.bowers@slps.org](mailto:gordon.bowers@slps.org)
 ### More Information
 
 Power Platform Functional Consultant
 
 ### Contact me
 
-[email@domain.com](mailto:gordon.bowers@slps.org)
+[gordon.bowers@slps.org](mailto:gordon.bowers@slps.org)
