@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+With AI, All Things Are Possible!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Psalm 91:4 "He will cover you with his feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart."
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:gordon.bowers@slps.org)
+### More Information
+
+Power Platform Functional Consultant
+
+### Contact me
+
+[email@domain.com](mailto:gordon.bowers@slps.org)
